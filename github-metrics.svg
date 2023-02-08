@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.72m added, 48.9k removed
+                                    3.58m added, 49.4k removed
                                 </div>
                             </section>
                             <section>
@@ -367,12 +367,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 57 commits)</small>
+                    <small class="h-details">(computed from last 54 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Mostly pushes code around 01:00</li>
-                        <li>Mostly active on Tuesday</li>
+                        <li>Mostly active on Friday</li>
                     </ul>
                 </div>
             </section>
@@ -385,39 +385,40 @@
                                 <!-- (optimized css) -->
                                 <g class="ct-grids">
                                     <line y1="125" y2="125" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="88.33333333333334" y2="88.33333333333334" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="100.55555555555556" y2="100.55555555555556" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="76.11111111111111" y2="76.11111111111111" x1="30" x2="465" class="ct-grid ct-vertical"/>
                                     <line y1="51.66666666666667" y2="51.66666666666667" x1="30" x2="465" class="ct-grid ct-vertical"/>
-                                    <line y1="15" y2="15" x1="30" x2="465" class="ct-grid ct-vertical"/>
+                                    <line y1="27.22222222222223" y2="27.22222222222223" x1="30" x2="465" class="ct-grid ct-vertical"/>
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,117.667C36.304,93.222,42.609,44.333,48.913,44.333C55.217,44.333,61.522,56.067,67.826,66.333C74.13,76.6,80.435,117.667,86.739,117.667C93.043,117.667,99.348,110.333,105.652,110.333C111.957,110.333,118.261,117.667,124.565,117.667C130.87,117.667,137.174,99.333,143.478,95.667C149.783,92,156.087,88.333,162.391,88.333C168.696,88.333,175,125,181.304,125C187.609,125,193.913,117.667,200.217,117.667C206.522,117.667,212.826,125,219.13,125C225.435,125,231.739,110.333,238.043,110.333C244.348,110.333,250.652,125,256.957,125C263.261,125,269.565,81,275.87,81C282.174,81,288.478,125,294.783,125C301.087,125,307.391,95.667,313.696,95.667C320,95.667,326.304,110.333,332.609,110.333C338.913,110.333,345.217,103,351.522,103C357.826,103,364.13,103,370.435,103C376.739,103,383.043,117.667,389.348,117.667C395.652,117.667,401.957,117.667,408.261,117.667C414.565,117.667,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,120.111,465,117.667L465,125Z" class="ct-area"/>
-                                        <path d="M30,117.667C36.304,93.222,42.609,44.333,48.913,44.333C55.217,44.333,61.522,56.067,67.826,66.333C74.13,76.6,80.435,117.667,86.739,117.667C93.043,117.667,99.348,110.333,105.652,110.333C111.957,110.333,118.261,117.667,124.565,117.667C130.87,117.667,137.174,99.333,143.478,95.667C149.783,92,156.087,88.333,162.391,88.333C168.696,88.333,175,125,181.304,125C187.609,125,193.913,117.667,200.217,117.667C206.522,117.667,212.826,125,219.13,125C225.435,125,231.739,110.333,238.043,110.333C244.348,110.333,250.652,125,256.957,125C263.261,125,269.565,81,275.87,81C282.174,81,288.478,125,294.783,125C301.087,125,307.391,95.667,313.696,95.667C320,95.667,326.304,110.333,332.609,110.333C338.913,110.333,345.217,103,351.522,103C357.826,103,364.13,103,370.435,103C376.739,103,383.043,117.667,389.348,117.667C395.652,117.667,401.957,117.667,408.261,117.667C414.565,117.667,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,120.111,465,117.667" class="ct-line"/>
-                                        <line x1="30" y1="117.66666666666667" x2="30.01" y2="117.66666666666667" class="ct-point" ct:value="1"/>
-                                        <line x1="48.913043478260875" y1="44.33333333333333" x2="48.92304347826087" y2="44.33333333333333" class="ct-point" ct:value="11"/>
-                                        <line x1="67.82608695652175" y1="66.33333333333334" x2="67.83608695652175" y2="66.33333333333334" class="ct-point" ct:value="8"/>
-                                        <line x1="86.73913043478261" y1="117.66666666666667" x2="86.74913043478261" y2="117.66666666666667" class="ct-point" ct:value="1"/>
-                                        <line x1="105.65217391304348" y1="110.33333333333333" x2="105.66217391304349" y2="110.33333333333333" class="ct-point" ct:value="2"/>
-                                        <line x1="124.56521739130436" y1="117.66666666666667" x2="124.57521739130436" y2="117.66666666666667" class="ct-point" ct:value="1"/>
-                                        <line x1="143.47826086956522" y1="95.66666666666667" x2="143.4882608695652" y2="95.66666666666667" class="ct-point" ct:value="4"/>
-                                        <line x1="162.3913043478261" y1="88.33333333333334" x2="162.40130434782608" y2="88.33333333333334" class="ct-point" ct:value="5"/>
+                                        <path d="M30,125L30,112.778C36.304,80.185,42.609,15,48.913,15C55.217,15,61.522,27.222,67.826,39.444C74.13,51.667,80.435,112.778,86.739,112.778C93.043,112.778,99.348,100.556,105.652,100.556C111.957,100.556,118.261,112.778,124.565,112.778C130.87,112.778,137.174,82.222,143.478,76.111C149.783,70,156.087,63.889,162.391,63.889C168.696,63.889,175,125,181.304,125C187.609,125,193.913,112.778,200.217,112.778C206.522,112.778,212.826,125,219.13,125C225.435,125,231.739,100.556,238.043,100.556C244.348,100.556,250.652,125,256.957,125C263.261,125,269.565,51.667,275.87,51.667C282.174,51.667,288.478,125,294.783,125C301.087,125,307.391,76.111,313.696,76.111C320,76.111,326.304,100.556,332.609,100.556C338.913,100.556,345.217,88.333,351.522,88.333C357.826,88.333,364.13,88.333,370.435,88.333C376.739,88.333,383.043,112.778,389.348,112.778C395.652,112.778,401.957,112.778,408.261,112.778C414.565,112.778,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,116.852,465,112.778L465,125Z" class="ct-area"/>
+                                        <path d="M30,112.778C36.304,80.185,42.609,15,48.913,15C55.217,15,61.522,27.222,67.826,39.444C74.13,51.667,80.435,112.778,86.739,112.778C93.043,112.778,99.348,100.556,105.652,100.556C111.957,100.556,118.261,112.778,124.565,112.778C130.87,112.778,137.174,82.222,143.478,76.111C149.783,70,156.087,63.889,162.391,63.889C168.696,63.889,175,125,181.304,125C187.609,125,193.913,112.778,200.217,112.778C206.522,112.778,212.826,125,219.13,125C225.435,125,231.739,100.556,238.043,100.556C244.348,100.556,250.652,125,256.957,125C263.261,125,269.565,51.667,275.87,51.667C282.174,51.667,288.478,125,294.783,125C301.087,125,307.391,76.111,313.696,76.111C320,76.111,326.304,100.556,332.609,100.556C338.913,100.556,345.217,88.333,351.522,88.333C357.826,88.333,364.13,88.333,370.435,88.333C376.739,88.333,383.043,112.778,389.348,112.778C395.652,112.778,401.957,112.778,408.261,112.778C414.565,112.778,420.87,125,427.174,125C433.478,125,439.783,125,446.087,125C452.391,125,458.696,116.852,465,112.778" class="ct-line"/>
+                                        <line x1="30" y1="112.77777777777777" x2="30.01" y2="112.77777777777777" class="ct-point" ct:value="1"/>
+                                        <line x1="48.913043478260875" y1="15" x2="48.92304347826087" y2="15" class="ct-point" ct:value="9"/>
+                                        <line x1="67.82608695652175" y1="39.44444444444444" x2="67.83608695652175" y2="39.44444444444444" class="ct-point" ct:value="7"/>
+                                        <line x1="86.73913043478261" y1="112.77777777777777" x2="86.74913043478261" y2="112.77777777777777" class="ct-point" ct:value="1"/>
+                                        <line x1="105.65217391304348" y1="100.55555555555556" x2="105.66217391304349" y2="100.55555555555556" class="ct-point" ct:value="2"/>
+                                        <line x1="124.56521739130436" y1="112.77777777777777" x2="124.57521739130436" y2="112.77777777777777" class="ct-point" ct:value="1"/>
+                                        <line x1="143.47826086956522" y1="76.11111111111111" x2="143.4882608695652" y2="76.11111111111111" class="ct-point" ct:value="4"/>
+                                        <line x1="162.3913043478261" y1="63.888888888888886" x2="162.40130434782608" y2="63.888888888888886" class="ct-point" ct:value="5"/>
                                         <line x1="181.30434782608697" y1="125" x2="181.31434782608696" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="200.21739130434784" y1="117.66666666666667" x2="200.22739130434783" y2="117.66666666666667" class="ct-point" ct:value="1"/>
+                                        <line x1="200.21739130434784" y1="112.77777777777777" x2="200.22739130434783" y2="112.77777777777777" class="ct-point" ct:value="1"/>
                                         <line x1="219.13043478260872" y1="125" x2="219.1404347826087" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="238.0434782608696" y1="110.33333333333333" x2="238.05347826086958" y2="110.33333333333333" class="ct-point" ct:value="2"/>
+                                        <line x1="238.0434782608696" y1="100.55555555555556" x2="238.05347826086958" y2="100.55555555555556" class="ct-point" ct:value="2"/>
                                         <line x1="256.95652173913044" y1="125" x2="256.9665217391304" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="275.8695652173913" y1="81" x2="275.8795652173913" y2="81" class="ct-point" ct:value="6"/>
+                                        <line x1="275.8695652173913" y1="51.66666666666667" x2="275.8795652173913" y2="51.66666666666667" class="ct-point" ct:value="6"/>
                                         <line x1="294.7826086956522" y1="125" x2="294.7926086956522" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="313.69565217391306" y1="95.66666666666667" x2="313.70565217391305" y2="95.66666666666667" class="ct-point" ct:value="4"/>
-                                        <line x1="332.60869565217394" y1="110.33333333333333" x2="332.6186956521739" y2="110.33333333333333" class="ct-point" ct:value="2"/>
-                                        <line x1="351.5217391304348" y1="103" x2="351.5317391304348" y2="103" class="ct-point" ct:value="3"/>
-                                        <line x1="370.4347826086957" y1="103" x2="370.4447826086957" y2="103" class="ct-point" ct:value="3"/>
-                                        <line x1="389.34782608695656" y1="117.66666666666667" x2="389.35782608695655" y2="117.66666666666667" class="ct-point" ct:value="1"/>
-                                        <line x1="408.26086956521743" y1="117.66666666666667" x2="408.2708695652174" y2="117.66666666666667" class="ct-point" ct:value="1"/>
+                                        <line x1="313.69565217391306" y1="76.11111111111111" x2="313.70565217391305" y2="76.11111111111111" class="ct-point" ct:value="4"/>
+                                        <line x1="332.60869565217394" y1="100.55555555555556" x2="332.6186956521739" y2="100.55555555555556" class="ct-point" ct:value="2"/>
+                                        <line x1="351.5217391304348" y1="88.33333333333334" x2="351.5317391304348" y2="88.33333333333334" class="ct-point" ct:value="3"/>
+                                        <line x1="370.4347826086957" y1="88.33333333333334" x2="370.4447826086957" y2="88.33333333333334" class="ct-point" ct:value="3"/>
+                                        <line x1="389.34782608695656" y1="112.77777777777777" x2="389.35782608695655" y2="112.77777777777777" class="ct-point" ct:value="1"/>
+                                        <line x1="408.26086956521743" y1="112.77777777777777" x2="408.2708695652174" y2="112.77777777777777" class="ct-point" ct:value="1"/>
                                         <line x1="427.1739130434783" y1="125" x2="427.1839130434783" y2="125" class="ct-point" ct:value="0"/>
                                         <line x1="446.0869565217392" y1="125" x2="446.0969565217392" y2="125" class="ct-point" ct:value="0"/>
-                                        <line x1="465.00000000000006" y1="117.66666666666667" x2="465.01000000000005" y2="117.66666666666667" class="ct-point" ct:value="1"/>
-                                    <text x="30" y="112.66666666666667" class="ct-post">1</text><text x="48.913043478260875" y="39.33333333333333" class="ct-post">11</text><text x="67.82608695652175" y="61.33333333333334" class="ct-post">8</text><text x="86.73913043478261" y="112.66666666666667" class="ct-post">1</text><text x="105.65217391304348" y="105.33333333333333" class="ct-post">2</text><text x="124.56521739130436" y="112.66666666666667" class="ct-post">1</text><text x="143.47826086956522" y="90.66666666666667" class="ct-post">4</text><text x="162.3913043478261" y="83.33333333333334" class="ct-post">5</text><text x="200.21739130434784" y="112.66666666666667" class="ct-post">1</text><text x="238.0434782608696" y="105.33333333333333" class="ct-post">2</text><text x="275.8695652173913" y="76" class="ct-post">6</text><text x="313.69565217391306" y="90.66666666666667" class="ct-post">4</text><text x="332.60869565217394" y="105.33333333333333" class="ct-post">2</text><text x="351.5217391304348" y="98" class="ct-post">3</text><text x="370.4347826086957" y="98" class="ct-post">3</text><text x="389.34782608695656" y="112.66666666666667" class="ct-post">1</text><text x="408.26086956521743" y="112.66666666666667" class="ct-post">1</text><text x="465.00000000000006" y="112.66666666666667" class="ct-post">1</text></g>
+                                        <line x1="465.00000000000006" y1="112.77777777777777" x2="465.01000000000005" y2="112.77777777777777" class="ct-point" ct:value="1"/>
+                                    <text x="30" y="107.77777777777777" class="ct-post">1</text><text x="48.913043478260875" y="10" class="ct-post">9</text><text x="67.82608695652175" y="34.44444444444444" class="ct-post">7</text><text x="86.73913043478261" y="107.77777777777777" class="ct-post">1</text><text x="105.65217391304348" y="95.55555555555556" class="ct-post">2</text><text x="124.56521739130436" y="107.77777777777777" class="ct-post">1</text><text x="143.47826086956522" y="71.11111111111111" class="ct-post">4</text><text x="162.3913043478261" y="58.888888888888886" class="ct-post">5</text><text x="200.21739130434784" y="107.77777777777777" class="ct-post">1</text><text x="238.0434782608696" y="95.55555555555556" class="ct-post">2</text><text x="275.8695652173913" y="46.66666666666667" class="ct-post">6</text><text x="313.69565217391306" y="71.11111111111111" class="ct-post">4</text><text x="332.60869565217394" y="95.55555555555556" class="ct-post">2</text><text x="351.5217391304348" y="83.33333333333334" class="ct-post">3</text><text x="370.4347826086957" y="83.33333333333334" class="ct-post">3</text><text x="389.34782608695656" y="107.77777777777777" class="ct-post">1</text><text x="408.26086956521743" y="107.77777777777777" class="ct-post">1</text><text x="465.00000000000006" y="107.77777777777777" class="ct-post">1</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -466,16 +467,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,81C39.5,83.444,49,88.333,58.5,88.333C68,88.333,77.5,22.333,87,22.333C96.5,22.333,106,81,115.5,81C125,81,134.5,60.048,144,51.667C153.5,43.286,163,29.667,172.5,29.667C182,29.667,191.5,78.556,201,103L201,125Z" class="ct-area"/>
-                                            <path d="M30,81C39.5,83.444,49,88.333,58.5,88.333C68,88.333,77.5,22.333,87,22.333C96.5,22.333,106,81,115.5,81C125,81,134.5,60.048,144,51.667C153.5,43.286,163,29.667,172.5,29.667C182,29.667,191.5,78.556,201,103" class="ct-line"/>
+                                            <path d="M30,125L30,81C39.5,83.444,49,88.333,58.5,88.333C68,88.333,77.5,44.333,87,44.333C96.5,44.333,106,81,115.5,81C125,81,134.5,60.048,144,51.667C153.5,43.286,163,29.667,172.5,29.667C182,29.667,191.5,78.556,201,103L201,125Z" class="ct-area"/>
+                                            <path d="M30,81C39.5,83.444,49,88.333,58.5,88.333C68,88.333,77.5,44.333,87,44.333C96.5,44.333,106,81,115.5,81C125,81,134.5,60.048,144,51.667C153.5,43.286,163,29.667,172.5,29.667C182,29.667,191.5,78.556,201,103" class="ct-line"/>
                                             <line x1="30" y1="81" x2="30.01" y2="81" class="ct-point" ct:value="6"/>
                                             <line x1="58.5" y1="88.33333333333334" x2="58.51" y2="88.33333333333334" class="ct-point" ct:value="5"/>
-                                            <line x1="87" y1="22.33333333333333" x2="87.01" y2="22.33333333333333" class="ct-point" ct:value="14"/>
+                                            <line x1="87" y1="44.33333333333333" x2="87.01" y2="44.33333333333333" class="ct-point" ct:value="11"/>
                                             <line x1="115.5" y1="81" x2="115.51" y2="81" class="ct-point" ct:value="6"/>
                                             <line x1="144" y1="51.66666666666667" x2="144.01" y2="51.66666666666667" class="ct-point" ct:value="10"/>
                                             <line x1="172.5" y1="29.66666666666667" x2="172.51" y2="29.66666666666667" class="ct-point" ct:value="13"/>
                                             <line x1="201" y1="103" x2="201.01" y2="103" class="ct-point" ct:value="3"/>
-                                        <text x="30" y="76" class="ct-post">6</text><text x="58.5" y="83.33333333333334" class="ct-post">5</text><text x="87" y="17.33333333333333" class="ct-post">14</text><text x="115.5" y="76" class="ct-post">6</text><text x="144" y="46.66666666666667" class="ct-post">10</text><text x="172.5" y="24.66666666666667" class="ct-post">13</text><text x="201" y="98" class="ct-post">3</text></g>
+                                        <text x="30" y="76" class="ct-post">6</text><text x="58.5" y="83.33333333333334" class="ct-post">5</text><text x="87" y="39.33333333333333" class="ct-post">11</text><text x="115.5" y="76" class="ct-post">6</text><text x="144" y="46.66666666666667" class="ct-post">10</text><text x="172.5" y="24.66666666666667" class="ct-post">13</text><text x="201" y="98" class="ct-post">3</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -2353,7 +2354,7 @@
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
                             From
-                            <span class="blue space">Dev-SalamSheikh/Admin-Dashboard-Project</span>
+                            <span class="blue space">Dev-SalamSheikh/Dev-SalamSheikh.github.io</span>
                         </div>
                     </section>
                     <section class="largeable-column-fields">
@@ -2361,7 +2362,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM8 0a8 8 0 100 16A8 8 0 008 0zm.5 4.75a.75.75 0 00-1.5 0v3.5a.75.75 0 00.471.696l2.5 1a.75.75 0 00.557-1.392L8.5 7.742V4.75z"/>
                             </svg>
-                            On 29 Nov 2022, 08:17:59
+                            On 5 Feb 2023, 23:26:32
                         </div>
                     </section>
                 </div>
@@ -2371,29 +2372,30 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            sidebar width edited
+                            new loading screen added
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 1.5a6.5 6.5 0 100 13 6.5 6.5 0 000-13zM0 8a8 8 0 1116 0A8 8 0 010 8zm6.5-.25A.75.75 0 017.25 7h1a.75.75 0 01.75.75v2.75h.25a.75.75 0 010 1.5h-2a.75.75 0 010-1.5h.25v-2h-.25a.75.75 0 01-.75-.75zM8 6a1 1 0 100-2 1 1 0 000 2z"/>
                             </svg>
-                            <span class="code">3b899967</span>
-                            <span class="code">src/components/Sidebar.jsx</span>
-                            <span class="code"><span class="snippet additions">++1</span> <span class="snippet deletions">--1</span></span>
+                            <span class="code">2e23fa88</span>
+                            <span class="code">js/main.js</span>
+                            <span class="code"><span class="snippet additions">++2</span> <span class="snippet deletions">--2</span></span>
                         </div>
                     </section>
                 </div>
                 <div class="row">
                     <section class="snippet">
                         <div class="body markdown">
-                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -12,7 +12,7 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">const Sidebar = ({ hide }) =&gt; {<br /></span><span class="token prefix unchanged">·</span><span class="token line">return (<br /></span><span class="token prefix unchanged">·</span><span class="token line">  &lt;div<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">    className={`min-h-screen w-[20%] text-white duration-300 scroll-smooth relative ${<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">    className={`min-h-screen w-[22%] text-white duration-300 scroll-smooth relative ${<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">      hide ? "ml-[-100%]" : ""<br /></span><span class="token prefix unchanged">·</span><span class="token line">    }`}<br /></span><span class="token prefix unchanged">·</span><span class="token line">    style={{</span></span></code>
+                            <code class="language-diff" xml:space="preserve"><span class="token coord">@@ -148,8 +148,8 @@</span><br /><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">// Preloader Animation<br /></span><span class="token prefix unchanged">·</span><span class="token line"><br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">const loader = document.getElementById("preloader");<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">const loader = document.getElementById("loading");<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line"><br /></span><span class="token prefix unchanged">·</span><span class="token line">window.addEventListener("load", function () {<br /></span></span><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line">loader.style.display = "none";<br /></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line">loader.remove();<br /></span></span><span class="token unchanged"><span class="token prefix unchanged">·</span><span class="token line">});
+</span></span></code>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Feb 2023, 01:11:23 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 9 Feb 2023, 02:13:56 (timezone Asia/Dhaka) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
