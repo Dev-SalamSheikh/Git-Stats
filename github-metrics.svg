@@ -2342,7 +2342,7 @@ feat tested: Sol Wrapper</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 561k out of 150m users</span>
+                                    <span class="gh">ranked 561k out of 146m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">59</div>
                                     </div>
@@ -2397,7 +2397,7 @@ feat tested: Sol Wrapper</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     influencer
-                                    <span class="gh">ranked 16.6k out of 150m users</span>
+                                    <span class="gh">ranked 16.6k out of 146m users</span>
                                     <div class="value-wrapper">
                                         <div class="value">531</div>
                                     </div>
@@ -2704,7 +2704,7 @@ feat tested: Sol Wrapper</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.29m out of 210m repositories</span>
+                                    <span class="gh">ranked 1.29m out of 212m repositories</span>
                                     <div class="value-wrapper">
                                         <div class="value">20</div>
                                     </div>
@@ -2824,7 +2824,7 @@ feat tested: Sol Wrapper</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Dec 2024, 15:17:41 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Dec 2024, 16:17:57 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
