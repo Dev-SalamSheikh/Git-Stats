@@ -55,7 +55,7 @@ class GitHubApiQueries(object):
 
             if result is not None:
                 return result
-        except:
+        except BaseException:
             print("aiohttp failed for GraphQL query")
 
             # Fall back on non-async requests
@@ -103,7 +103,7 @@ class GitHubApiQueries(object):
 
                 if result is not None:
                     return result
-            except:
+            except BaseException:
                 print("aiohttp failed for REST query attempt #" + str(i + 1))
 
                 # Fall back on non-async requests
@@ -142,9 +142,9 @@ class GitHubApiQueries(object):
                         direction: DESC
                     }},
                     after: {
-                        "null" if owned_cursor is None 
-                        else '"' + owned_cursor + '"'
-                    }) {{
+            "null" if owned_cursor is None
+            else '"' + owned_cursor + '"'
+        }) {{
                         pageInfo {{
                             hasNextPage
                             endCursor
@@ -160,7 +160,7 @@ class GitHubApiQueries(object):
                             isArchived
                             isPrivate
                             languages(first: 20, orderBy: {{
-                                field: SIZE, 
+                                field: SIZE,
                                 direction: DESC
                             }}) {{
                                 edges {{
@@ -187,8 +187,8 @@ class GitHubApiQueries(object):
                         PULL_REQUEST_REVIEW
                     ]
                     after: {
-                    "null" if contrib_cursor is None 
-                    else '"' + contrib_cursor + '"'}) {{
+            "null" if contrib_cursor is None
+            else '"' + contrib_cursor + '"'}) {{
                         pageInfo {{
                             hasNextPage
                             endCursor
@@ -204,7 +204,7 @@ class GitHubApiQueries(object):
                             isArchived
                             isPrivate
                             languages(first: 20, orderBy: {{
-                                field: SIZE, 
+                                field: SIZE,
                                 direction: DESC
                             }}) {{
                                 edges {{
