@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1548" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1565" class="">
     <defs>
         <style/>
     </defs>
@@ -1389,7 +1389,7 @@
                                         <span>starred Jun 16 2026</span>
                                     </div>
                                 </div>
-                                <div class="field description">OiPer is a privacy-first voice-to-text desktop app</div>
+                                <div class="field description">Private voice-to-text dictation app for Windows, macOS and Linux. Offline Whisper speech-to-text that types into any app.</div>
                                 <div class="field infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1603,7 +1603,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Oct 2026, 16:34:56 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Oct 2026, 22:32:07 (timezone Asia/Dhaka) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
